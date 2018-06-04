@@ -308,3 +308,9 @@ footer p{
         margin-left: 120px;
     } */
 }
+@media (max-width:400px){
+    footer p {
+        margin-bottom: 30px;
+        font-size: 12px;
+    }
+}
